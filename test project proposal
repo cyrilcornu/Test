@@ -1,59 +1,58 @@
-+NOTE: This template can be downloaded [here](https://github.com/openETCS/ecosystem/downloads) and edited with any text editor. Please keep the wiki syntax.
-+##Proposal
-+The Open ETCS Internal Assessment project is a proposed open source project under the Verification and Validation Activities Container Project (WP4).
-+
-+This proposal is in the Project Proposal Phase (as defined in the openETCS Development Process) and is written to declare its intent and scope. We solicit additional participation and input from the openETCS community. Please send all feedback to this mailing list proposal@openetcs.com.
-+## Background
-+The purpose of the openETCS project is to develop an integrated modelling, development, validation and testing framework for leveraging the cost-efficient and reliable implementation of ETCS.
-+
-+The development of the EVC software is performed using the methods described for software development in CENELEC EN 50128 for SIL4 software.
-+
-+One of the major point for a SIL4 compliant Software is the Whole Software Development Project Assessment by a Safety Authority (e.g CERTIFER in France, TÜV in Germany). As none of these companies are involved in openETCS Software Development assessment, the Internal Assessment activities will simulate a real Assessor's tasks during the whole Open ETCS Software Development activities.
-+## Scope
-+This note is a set of suggestions regarding the Assessor tasks. According to the CENELEC EN50128 Standard requirements regarding a SIL4 Software development, this note summarizes actions that will be performed within the project Open ETCS by the internal Assessor. These actions will be performed in the framework of the Internal Project "Open ETCS internal assessment".
-+
-+A Safety assessor has to be fully independent from the project and the software development. Therefore, this internal assessor will simulate a real assessment by Safety Authorities, and this along the whole software development process of the project OpenETCS.
-+## Description
-+The role of the Assessor is to perform an assessment of the software developed during the project OpenETCS. An assessment is a ¨ Process of analysis to determine whether software, which may include process, documentation, system, subsystem hardware and/or software components, meets the specified requirements, and to form a judgment whether the software is fit for its intended purpose. Safety assessment is focused on but not limited to the safety properties of a system.¨ .
-+
-+The last sentence explains the fact that the safety properties of the software to be developed are a major concern of the assessment, but the overall quality and process aspects of the software development are totally concerned as well by assessment activities.
-+
-+According to the standard EN 50128 and the software safety integrity level (SIL4) of the project, it is very important to remind that the Assessor shall be independent from the project and shall be given authority to perform the software assessment. Then, the Assessor is not part of project stakeholders and is totally independent from the project teams (The project considered here is not the Open ETCS project, but the Software development. Therefore, a company part of the whole Open ETCS project, but not involved in the software development, could provide an assessor, at the moment he respects the both previous conditions).
-+
-+Furthermore, the Assessor shall have the knowledge of the both ERTMS and ETCS, of the dependability and of the standard EN 50128, even if only ETCS EVC Software part iin the
-+project scope.
-+
-+The assessor roles are described in the CENELEC EN50128 standard in following paragraphs: §6.4.4.8, §6.4.4.9, §6.4.4.10, §6.4.4.11, §6.4.4.12, §6.4.4.13, §6.4.4.14 and §6.4.4.15.
-+## Why openETCS?
-+OpenETCS is willing to develop a SIL4 Software according to the CENELEC EN50128 Standard.
-+
-+In order to assure this Safety Integrity Level compliancy from the very beginning of the Software Development to the end of it, a Assessment activity has to be started as soon as the project starts. As no real Assessor has been defined yet, this activity will ensure that nothing has been missed during the Software development that could prevent the Open ETCS to develop a SIL4 compliant EVC Software.
-+## Initial Contribution
-+A first note will be provided in the Project Repos on GitHub.
-+## Legal Issues
-+The CENELEC EN50128 standard is not open source and/or free to use. Therefore, just references will be done to this standard.
-+For companies that are missing the standard, a version that can be used in the framework of OpenETCS can be consulted in OpenETCS office in München.
-+## Project Leads
-+Cyril Cornu, All4tec.
-+## Committers
-+The following individuals are proposed as initial committers to the project:
-+
-+* Merlin Pokam, AEbt
-+* Anne-Catherine Vie, All4tec 
-+
-+We welcome additional committers and contributions.
-+## Mentors
-+
-+The following Architecture Council members will mentor this project:
-+
-+* Frédérique Vallée
-+* Marc Behrens
-+
-+## Interested Parties
-+The following individuals, organisations, companies and projects have expressed interest in this project:
-+* Marc Behrens
-+* ...
-+
-+## Project Scheduling
-+This Project will start as soon as possible, and will in a first place come closer to the Safety Case activities, driven by Jan Welte.
+NOTE: This template can be downloaded [here](https://github.com/openETCS/ecosystem/downloads) and edited with any text editor. Please keep the wiki syntax.
+##Proposal
+The Open ETCS Internal Assessment project is a proposed open source project under the Verification and Validation Activities Container Project (WP4).
+
+This proposal is in the Project Proposal Phase (as defined in the openETCS Development Process) and is written to declare its intent and scope. We solicit additional participation and input from the openETCS community. Please send all feedback to this mailing list proposal@openetcs.com.
+## Background
+The purpose of the openETCS project is to develop an integrated modelling, development, validation and testing framework for leveraging the cost-efficient and reliable implementation of ETCS.
+The development of the EVC software is performed using the methods described for software development in CENELEC EN 50128 for SIL4 software.
+
+One of the major point for a SIL4 compliant Software is the Whole Software Development Project Assessment by a Safety Authority (e.g CERTIFER in France, TÜV in Germany). As none of these companies are involved in openETCS Software Development assessment, the Internal Assessment activities will simulate a real Assessor's tasks during the whole Open ETCS Software Development activities.
+## Scope
+This note is a set of suggestions regarding the Assessor tasks. According to the CENELEC EN50128 Standard requirements regarding a SIL4 Software development, this note summarizes actions that will be performed within the project Open ETCS by the internal Assessor. These actions will be performed in the framework of the Internal Project "Open ETCS internal assessment".
+
+A Safety assessor has to be fully independent from the project and the software development. Therefore, this internal assessor will simulate a real assessment by Safety Authorities, and this along the whole software development process of the project OpenETCS.
+## Description
+The role of the Assessor is to perform an assessment of the software developed during the project OpenETCS. An assessment is a ¨ Process of analysis to determine whether software, which may include process, documentation, system, subsystem hardware and/or software components, meets the specified requirements, and to form a judgment whether the software is fit for its intended purpose. Safety assessment is focused on but not limited to the safety properties of a system.¨ .
+
+The last sentence explains the fact that the safety properties of the software to be developed are a major concern of the assessment, but the overall quality and process aspects of the software development are totally concerned as well by assessment activities.
+
+According to the standard EN 50128 and the software safety integrity level (SIL4) of the project, it is very important to remind that the Assessor shall be independent from the project and shall be given authority to perform the software assessment. Then, the Assessor is not part of project stakeholders and is totally independent from the project teams (The project considered here is not the Open ETCS project, but the Software development. Therefore, a company part of the whole Open ETCS project, but not involved in the software development, could provide an assessor, at the moment he respects the both previous conditions).
+
+Furthermore, the Assessor shall have the knowledge of the both ERTMS and ETCS, of the dependability and of the standard EN 50128, even if only ETCS EVC Software part iin the
+project scope.
+
+The assessor roles are described in the CENELEC EN50128 standard in following paragraphs: §6.4.4.8, §6.4.4.9, §6.4.4.10, §6.4.4.11, §6.4.4.12, §6.4.4.13, §6.4.4.14 and §6.4.4.15.
+## Why openETCS?
+OpenETCS is willing to develop a SIL4 Software according to the CENELEC EN50128 Standard.
+
+In order to assure this Safety Integrity Level compliancy from the very beginning of the Software Development to the end of it, a Assessment activity has to be started as soon as the project starts. As no real Assessor has been defined yet, this activity will ensure that nothing has been missed during the Software development that could prevent the Open ETCS to develop a SIL4 compliant EVC Software.
+## Initial Contribution
+A first note will be provided in the Project Repos on GitHub.
+## Legal Issues
+The CENELEC EN50128 standard is not open source and/or free to use. Therefore, just references will be done to this standard.
+For companies that are missing the standard, a version that can be used in the framework of OpenETCS can be consulted in OpenETCS office in München.
+## Project Leads
+Cyril Cornu, All4tec.
+## Committers
+The following individuals are proposed as initial committers to the project:
+
+* Merlin Pokam, AEbt
+* Anne-Catherine Vie, All4tec 
+
+We welcome additional committers and contributions.
+## Mentors
+
+The following Architecture Council members will mentor this project:
+
+* Frédérique Vallée
+* Marc Behrens
+
+## Interested Parties
+The following individuals, organisations, companies and projects have expressed interest in this project:
+* Marc Behrens
+* ...
+
+## Project Scheduling
+This Project will start as soon as possible, and will in a first place come closer to the Safety Case activities, driven by Jan Welte.
 \ No newline at end of file
